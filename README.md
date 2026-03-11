@@ -1,7 +1,10 @@
 berikut struktur susunan file dan folder jika projek dijalankan di XAMPP, jangan lupa untuk menyalakan APACHE di XAMPP!
 
 htdocs
-└── oop-php
-     ├── Mahasiswa.php
-     └── index.php
-URL : http://localhost/oop-php
+└── belajar-oop
+     ├── lat1
+     └── lat2
+     └── lat3
+     └── lat4
+URL : http://localhost/belajar-oop/
+contoh : http://localhost/belajar-oop/lat1
